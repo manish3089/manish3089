@@ -1,14 +1,13 @@
 ### 👋 Hi, I'm Manish Chaudhary
 
-🎓 I'm a final-year Data Science student passionate about building intelligent systems that solve real-world problems.  
-🔬 Currently working on NLP and Algorithmic Trading projects, especially around document summarization, risk modeling, and AI applications in law and finance.  
+🎓 I'm a final-year Data Science student passionate about building intelligent systems that solve real-world problems.   
 🧠 Strong believer in fundamentals — combining Python and Math for meaningful AI.
 
 ---
 
 ### 🛠️ Tech I Work With:
-- **Languages:** Python, SQL R
-- **Libraries & Frameworks:** Pandas, scikit-learn, Transformers, Flask, Streamlit, NLTK, SpaCy
+- **Languages:** Python, SQL
+- **Libraries & Frameworks:** Pandas, scikit-learn, Transformers, Streamlit, NLTK, SpaCy
 - **Tools:** Git, GitHub, VS Code, MongoDB, Google Colab
 - **Currently Exploring:** LangChain, LLMs, Google Cloud, FinTech APIs
 
@@ -29,5 +28,3 @@
 ---
 
 📫 Reach me at [X](https://x.com/GodOverGreed)    &    [LinkedIn](https://www.linkedin.com/in/manishchaudhary3089)
-
-> “Build for impact, learn for life.”
