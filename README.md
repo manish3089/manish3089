@@ -7,17 +7,16 @@
 
 ### 🛠️ Tech I Work With:
 - **Languages:** Python, SQL
-- **Libraries & Frameworks:** Pandas, scikit-learn, Transformers, Streamlit, NLTK, SpaCy
-- **Tools:** Git, GitHub, VS Code, MongoDB, Google Colab
-- **Currently Exploring:** LangChain, LLMs, Google Cloud, FinTech APIs
+- **Libraries & Frameworks:** Pandas, scikit-learn, Transformers, Streamlit, NLTK, SpaCy, PyTorch
+- **Tools:** Git, GitHub, VS Code, Google Colab, Power BI, Excel
 
 ---
 
 ### 🚀 Projects
-- 🔍 [AI-Powered Forensic Document Summarization System](https://github.com/february-king/AI-Powered-Forensic-Document-Summarization-System)
-- 💬 [Exploratory Data Analysis of Gold (XAU/USD) and EUR/USD](https://github.com/february-king/XAUUSD-EURUSD-EDA)
-- 💘 [Telegram Love Bot](https://github.com/manish3089/official_maya_bot)
-- 🔐 [Sentiment Trading Analysis](https://github.com/manish3089/sentiment-trading-analysis)
+- [AI-Powered Forensic Document Summarization System](https://github.com/manish3089/Legal-Research-Summarization-Tool)
+- [Football-Analytics-Computer-Vision](https://github.com/manish3089/Football-Analytics-Computer-Vision)
+- [Gold-EUR/USD Dynamics](https://github.com/manish3089/Gold-EUR-USD-Dynamics)
+- [Sentiment Trading Analysis](https://github.com/manish3089/sentiment-trading-analysis)
 
 ---
 
