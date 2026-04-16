@@ -17,7 +17,7 @@
 - 🔍 [AI-Powered Forensic Document Summarization System](https://github.com/february-king/AI-Powered-Forensic-Document-Summarization-System)
 - 💬 [Exploratory Data Analysis of Gold (XAU/USD) and EUR/USD](https://github.com/february-king/XAUUSD-EURUSD-EDA)
 - 💘 [Telegram Love Bot](https://github.com/manish3089/official_maya_bot)
-- 🔐 [Sharekhan API Token Generator](https://github.com/manish3089/Token-Generator)
+- 🔐 [Sentiment Trading Analysis](https://github.com/manish3089/sentiment-trading-analysis)
 
 ---
 
