@@ -26,4 +26,4 @@
 
 ---
 
-📫 Reach me at [X](https://x.com/GodOverGreed)    &    [LinkedIn](https://www.linkedin.com/in/manishchaudhary3089)
+📫 Reach me at [LinkedIn](https://www.linkedin.com/in/manishchaudhary3089)
