@@ -17,6 +17,7 @@
 - [Football-Analytics-Computer-Vision](https://github.com/manish3089/Football-Analytics-Computer-Vision)
 - [Gold-EUR/USD Dynamics](https://github.com/manish3089/Gold-EUR-USD-Dynamics)
 - [Sentiment Trading Analysis](https://github.com/manish3089/sentiment-trading-analysis)
+- [HR-Attrition-Analysis](https://github.com/manish3089/HR-Attrition-Analysis)
 
 ---
 
