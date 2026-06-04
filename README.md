@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Manish Chaudhary
 
-🎓 I'm a final-year Data Science student passionate about building intelligent systems that solve real-world problems.   
-🧠 Strong believer in fundamentals — combining Python and Math for meaningful AI.
+ I'm a Computer Science graduate with a focus on Data Science, passionate about building intelligent systems that solve real-world problems.   
+ Strong believer in fundamentals — combining Python and Math for meaningful AI.
 
 ---
 
