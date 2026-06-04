@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Manish Chaudhary
 
  I'm a Computer Science graduate with a focus on Data Science, passionate about building intelligent systems that solve real-world problems.   
- Strong believer in fundamentals — combining Python and Math for meaningful AI.
+ Strong believer in fundamentals, combining Python and Math for meaningful AI.
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Projects
+###  Projects
 - [AI-Powered Forensic Document Summarization System](https://github.com/manish3089/Legal-Research-Summarization-Tool)
 - [Football-Analytics-Computer-Vision](https://github.com/manish3089/Football-Analytics-Computer-Vision)
 - [Haven-Tracker](https://github.com/manish3089/Haven-Tracker)
@@ -21,10 +21,10 @@
 
 ---
 
-### 🌱 Always Learning:
+###  Always Learning:
 - Quantitative Finance, Data Structures, Prompt Engineering
 - Contributing to open-source (especially Python and Data projects)
 
 ---
 
-📫 Reach me at [LinkedIn](https://www.linkedin.com/in/manishchaudhary3089)
+ Reach me at [LinkedIn](https://www.linkedin.com/in/manishchaudhary3089)
